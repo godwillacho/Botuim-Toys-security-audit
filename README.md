@@ -1,6 +1,6 @@
 # Botium Toys: Security Controls and Compliance Audit
 
-An internal IT security audit of Botium Toys, a fictional toy retailer with a storefront, offices and a warehouse, serving customers including in the E.U.. Completed as part of the Google Cybersecurity Professional Certificate.
+An internal IT security audit of Botium Toys, a fictional toy retailer with a storefront, offices and a warehouse, serving customers in the E.U. Completed as part of the Google Cybersecurity Professional Certificate.
 
 The audit assesses which security controls are in place, checks compliance against three frameworks, and recommends remediations to the IT manager.
 
